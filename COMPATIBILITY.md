@@ -611,7 +611,7 @@ This library is verified to work with following banks.
 - [ ] Raiffeisenbank Schleusingen
 - [ ] Raiffeisenbank Schrobenhausen
 - [ ] Raiffeisenbank Schrobenhausener Land
-- [ ] Raiffeisenbank Schrozberg-Rot am See
+- [x] Raiffeisenbank Schrozberg-Rot am See
 - [ ] Raiffeisenbank Schwandorf-Nittenau
 - [ ] Raiffeisenbank Seebachgrund
 - [ ] Raiffeisenbank Seeg -alt-
